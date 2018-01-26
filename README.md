@@ -1,6 +1,7 @@
 <h1>VueJS project</h1>
 <p>VueJS + SSR</p>
-Based on https://github.com/vuejs/vue-hackernews-2.0
+<span>Based on https://github.com/vuejs/vue-hackernews-2.0</span>
+
 ``` bash
 # install dependencies
 npm install
