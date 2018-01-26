@@ -1,5 +1,5 @@
-VueJS project
-VueJS + SSR
+<h1>VueJS project<h1>
+<p>VueJS + SSR</p>
 
 ``` bash
 # install dependencies
